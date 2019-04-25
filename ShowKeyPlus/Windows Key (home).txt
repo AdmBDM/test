@@ -1,0 +1,15 @@
+ShowKeyPlus - Windows Product Key Information
+
+Product Name:	Windows 10 Pro
+
+Version:	17134.590 (64-bit OS)
+
+Product ID:	00330-80000-00000-AA526
+
+Installed Key:	VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+Original Key:	8W8GH-8PWF6-K82RM-2YHR8-GMKWJ
+
+Original Edition: Windows 7 Ultimate Retail
+
+OEM Key:	OEM key not present in firmware
